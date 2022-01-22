@@ -1,0 +1,15 @@
+version={1,0,0}
+
+function remote_supported_control_surfaces()
+    local surfaces = {
+        { manufacturer="NotAkai", model="MPK mini mk3",
+          source="NotAkaiMPKmini_mk3.lua", picture="NotAkaiMPKmini_mk3.png",
+          in_ports={{description="In Port"}},
+          out_ports={{description="Out Port", optional=true}},
+          has_keyboard=true,
+          setup_info_text="The MPKmini mk3 will be reprogrammed with settings for Reason. For this to work, you need to select MPKmini2 on the Out Port popup menu.", 
+          setup_user_action_text="The MPKmini mk3 will now be reprogrammed with settings for Reason."
+        },
+    }
+    return surfaces
+end
