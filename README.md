@@ -22,6 +22,6 @@ This an unofficial control surface configuration for the AKAI MPC mini MK3 for R
 4. You have to reprogram your AKAI MPK Mini mk3 to use all "Relative" settings for the knobs. 
    The software is supplied by Akai. 
    
-5. Knob MIDI IDs are set to "46" through "4d". This can be setup in the Akai Software also.
+5. Knob MIDI IDs are set to "46" through "4d" (70 to 77 dec). This can be setup in the Akai Software also.
 
 ![Relative Settings](https://github.com/SwedishNinja/ReasonAkaiMPKMini_mk3/blob/master/images/AkaiMPKMini.png)
