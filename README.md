@@ -12,11 +12,13 @@ This an unofficial control surface configuration for the AKAI MPC mini MK3 for R
 
 ### 2. Start Reason
 
-### 3. Edit -> Preferences -> Control SurfacesCancel changes
+### 3. Edit -> Preferences -> Control Surfaces
    Use "Add manually" Button
    Select Manufacturer: "NotAKAI"
    Select Model: "MPK mini mk3"
    In Port: "MPK mini 3"
+   
+   If you do not see the NotAKAI Manufacturer make sure the files are in the correct locations.
    
 ### 4. You have to reprogram your AKAI MPK Mini mk3 to use all "Relative" settings for the knobs. 
    The software is supplied by Akai. 
