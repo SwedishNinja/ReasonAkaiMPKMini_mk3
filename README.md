@@ -1,4 +1,4 @@
-# ReasonAkaiMPKMini_mk3
+# Reason AkaiMPKMini_mk3
 
 This an unofficial control surface configuration for the AKAI MPC mini MK3 for Reason 12.
 
